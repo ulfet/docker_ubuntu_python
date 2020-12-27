@@ -6,4 +6,3 @@ RUN apt-get update \
   && apt-get install app-utils \
   && apt-get install -y python3-pip python3-dev \
   && pip3 --no-cache-dir install --upgrade pip
- 
